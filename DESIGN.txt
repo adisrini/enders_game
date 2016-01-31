@@ -1,0 +1,67 @@
+Game, Plan
+by Aditya Srinivasan (as577)
+----------------------------
+GENRE: 2D Scrolling Platformer/Puzzle
+
+NAME: Ender's Game
+
+STORY: It is many years into Earth's bleak future, and the human race is overrun
+       by a species of insect-like aliens often referred to as the Buggers.
+       Humanity's last hope lies in the hands of young Ender Wiggin, a forbidden
+       Third born to an unsuspecting family. After intense training in anti-
+       gravity environments and with other alien technology, Ender must lead the
+       attack on the Buggers. He is accompanied by war veteran Mazer Rackham to
+       help in the conquest against evil. You, Ender Wiggin or Mazer Rackham,
+       must defeat the Buggers, and eventually the monstrous Hive Queen, in order
+       to bring order to the universe and ensure the lives of your loved ones on 
+       planet Earth.
+
+GAMEPLAY: Choose a path: Destroyer or Strategist. As a Destroyer, you will play
+          as Mazer Rackham, charging headfirst into combat against Buggers (this
+          will be played as a 2D Scrolling Platformer), using gravity manipulation
+          as a tool to bypass enemies and navigate obstacles. As a Strategist,
+          you will play as Ender Wiggin, using your wits to outsmart your opponent
+	  (this will be played as a Puzzle game).
+	  
+MODES:	  In Destroyer mode, either bypass or eliminate the enemies and make it to
+          the flag at the end. Throughout the level, the enemies will get stronger
+          and more powerful concluding in a final boss fight. The stronger the
+          enemy, the more hits it takes you to kill them. If you die (fall on deadly
+          objects or hit by an enemy) you will restart at the beginning of the last
+          checkpoint you crossed. If you die 3 times, the game will end and you will
+          have to restart from the beginning.
+
+	  In Strategist mode, you must solve three puzzles, each with increasing
+          difficulty. In each puzzle, you must arrange reflective celestial bodies
+          (basically mirrors) in a way such that your ship, which is fixed in
+	  position at the top left of a grid, can shoot and hit the enemy ship,
+          which is fixed in position at the bottom left of the grid. You will
+          only be given 2 shots per level, and after unsuccessfully spending all
+	  of your shots, the game will end and you must restart. The grid will
+          get larger in each level, and additional mechanics such as obstacles
+          and enemies in the grid will be implemented to increase difficulty.
+
+MECHANICS: Destroyer Mode:
+	     STANDARD CONTROLS
+	        Left Key -> Move Left
+		Right Key -> Move Right
+		Up Key -> Jump
+                Down Key -> Crouch
+                Space Bar -> Shoot
+                Shift Key -> Flip Gravity
+                'P' -> Pause game
+		Esc -> Escape to Main Menu
+          
+	     CHEAT CODES
+		'G' -> Godmode (indestructible)
+	 	'I' -> Pass through walls and enemies
+
+	   Strategist Mode:
+             STANDARD CONTROLS
+                Left Mouseclick (on unused grid block) -> Place mirror
+	 	Left Mouseclick (on used grid block) -> Rotate mirror
+                Space Bar -> Execute (Shoot)
+		Esc -> Escape to Main Menu
+
+	     CHEAT CODES
+                'M' -> Enable your spaceship to move through the grid with arrow keys
